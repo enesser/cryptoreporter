@@ -1,0 +1,20 @@
+{
+  "name": "crypto-reporter-slack-client",
+  "version": "1.0.0",
+  "description": "Cryptocurrency reporter for Slack.",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/events-api": "^2.3.4",
+    "@slack/web-api": "^5.11.0",
+    "csv": "^5.3.2",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Eric J Nesser",
+  "license": "MIT"
+}

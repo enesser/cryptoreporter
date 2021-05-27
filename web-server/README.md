@@ -4,7 +4,7 @@ Web-based cryptocurrency reporter depicting gains and losses of selected coins i
 
 ![Screenshot](./docs/report-sample.png)
 
-Demo: [https://cryptoreporter-web.herokuapp.com/report.png](https://cryptoreporter-web.herokuapp.com/)
+Demo: [https://cryptoreporter-web.herokuapp.com/report.png](https://cryptoreporter-web.herokuapp.com/report.png)
 
 This is the web server module for Crypto Reporter. It will render a D3 tree map depicting gains and losses of your requested coin ticker symbols. The sizes of the boxes depict the size of the gain or loss over a 24 hour period.
 

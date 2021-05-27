@@ -6,7 +6,7 @@ Slack and web client included.
 
 ![Screenshot](./web-server/docs/report-sample.png)
 
-Demo: [https://cryptoreporter-web.herokuapp.com/report.png](https://cryptoreporter-web.herokuapp.com/)
+Demo: [https://cryptoreporter-web.herokuapp.com/report.png](https://cryptoreporter-web.herokuapp.com/report.png)
 
 Crypto Reporter will render a D3 tree map depicting gains and losses of your requested coin ticker symbols. The sizes of the boxes depict the size of the gain or loss over a 24 hour period.
 
